@@ -4,3 +4,4 @@ This repo contains a series of group exercises and one problem set which make us
 ### Folder Structure
 * folder to hold all data files that are linked to in the Colab notebooks
 * folder to hold Colab notebook files for all exercises
+* folder to hold documentation file for Colab notebooks/exercises
